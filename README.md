@@ -82,3 +82,26 @@ This is a simulated networking lab created in Cisco Packet Tracer for learning a
 ## Skills Demonstrated
 
 Network segmentation, Layer 3 routing, DHCP, OSPF, NAT/PAT, ACL configuration, STP troubleshooting, EtherChannel, connectivity testing, and network verification.
+
+## Network Topology
+
+![Network Topology](Screenshot%20(1531).png)
+
+## Configuration Verification
+
+### VLAN Configuration
+![VLAN](Screenshot%20(1533).png)
+
+### OSPF Neighbors
+![OSPF](Screenshot%20(1535).png)
+
+### ACL Verification
+![ACL](Screenshot%20(1536).png)
+
+### NAT/PAT Verification
+![NAT](Screenshot%20(1537).png)
+
+### DHCP Verification
+![DHCP](Screenshot%20(1538).png)
+
+
