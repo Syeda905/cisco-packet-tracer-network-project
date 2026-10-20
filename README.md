@@ -89,19 +89,26 @@ Network segmentation, Layer 3 routing, DHCP, OSPF, NAT/PAT, ACL configuration, S
 
 ## Configuration Verification
 
-### VLAN Configuration
-![VLAN](Screenshot%20(1533).png)
+1. EtherChannel Summary
+![Ethernet Configuration](Screenshot%20(1533).png)
+Verifies the status of the configured EtherChannel and its member links.
 
-### OSPF Neighbors
+2. OSPF Neighbor Verification
 ![OSPF](Screenshot%20(1535).png)
+Shows OSPF neighbor relationships between the routers.
 
-### ACL Verification
-![ACL](Screenshot%20(1536).png)
+3. IP Routing Table and NAT Statistics
+   ![NAT Statistics](Screenshot%20(1536).png)
+Shows the router's routing information and Network Address Translation statistics.
 
-### NAT/PAT Verification
-![NAT](Screenshot%20(1537).png)
+4. Access Control List (ACL) Verification
+   ![ACL](Screenshot%20(1537).png)
+Documents the configured access control rules used to restrict branch access to the HQ server network.
 
-### DHCP Verification
-![DHCP](Screenshot%20(1538).png)
+5. Branch-to-HQ Connectivity Testing
+   ![Testing Ping](Screenshot%20(1538).png)
+Shows connectivity tests from the branch PC, including the unsuccessful ping to the restricted HQ server and successful connectivity to other destinations tested.
 
-
+6. NAT Translation and Routing Verification
+  ![NAT Translations](Screenshot%20(2026-10-15 162826.png) 
+Shows NAT translation entries and routing information used to verify the network's outbound connectivity.
