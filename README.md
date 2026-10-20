@@ -110,5 +110,7 @@ Documents the configured access control rules used to restrict branch access to 
 Shows connectivity tests from the branch PC, including the unsuccessful ping to the restricted HQ server and successful connectivity to other destinations tested.
 
 6. NAT Translation and Routing Verification
-  ![NAT Translations](Screenshot%20(2026-10-15 162826.png) 
+
+![NAT Translations and Routing](Screenshot%202026-10-15%20162826.png)
+
 Shows NAT translation entries and routing information used to verify the network's outbound connectivity.
